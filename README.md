@@ -21,7 +21,7 @@ Here are some of the projects I've been working on:
 ## 📫 Contact Me
 
 You can reach me at: 
-- 📧 Email: [your-email@example.com](roitamano@gmail.com)
+- 📧 Email: roitamano@gmail.com
 
 Thanks for visiting my profile! Looking forward to collaborating and sharing knowledge with you. 😊
 
