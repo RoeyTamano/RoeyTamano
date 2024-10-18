@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Roee Tamano!
+# 👋 Hello, I'm Roey Tamano!
 
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast with a focus on creating innovative solutions.
 
@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 Here are some of the projects I've been working on:
 
-- **RoboCave**: A project aimed at developing a small vehicle to gather information in tunnels, enhancing safety for soldiers and civilians.
-- **EnergyApp**: is a web-based tool designed to help users track and calculate their household energy consumption in an intuitive and user-friendly way.
-- **MedTrack**: An app that helps users manage their medication schedules and provides reminders.
-- **Leno Website**: A website designed to help users boost productivity and improve health. 
+- **🤖RoboCave**: A project aimed at developing a small vehicle to gather information in tunnels, enhancing safety for soldiers and civilians.
+- **🔋EnergyApp**: is a web-based tool designed to help users track and calculate their household energy consumption in an intuitive and user-friendly way.
+- **💊MedTrack**: An app that helps users manage their medication schedules and provides reminders.
+- **📱Leno Website**: A website designed to help users boost productivity and improve health. 
 
 ## 📫 Contact Me
 
