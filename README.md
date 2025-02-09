@@ -7,7 +7,7 @@ Currently expanding my skills in JavaScript, React, and Node.js, while sharpenin
 
 #### Find me at 📬
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roitamano@gmail.com)](mailto:roitamano@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roeytamano@gmail.com)](mailto:roeytamano@gmail.com)
 
 ## 🔧 Technologies & Tools
 
